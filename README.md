@@ -93,7 +93,7 @@ routr-ai/
 2. **Generate AI Route Summary**: Use OpenAI GPT to analyze and format trip data.
 3. **Retrieve Reports**: View, search, and export trip records.
 
-## API Integration
+## AI API Integration
 
 Routr-ai includes an OpenAI-powered journey parser that generates structured trip logs. Example request structure:
 
