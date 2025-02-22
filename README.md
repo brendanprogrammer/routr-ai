@@ -118,4 +118,4 @@ MIT License. See `LICENSE` for details.
 
 ## Contact
 
-For questions or collaborations, reach out at [brendanprogrammer@gmail.com].
+For questions or collaborations, reach out at brendanprogrammer@gmail.com.
